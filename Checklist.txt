@@ -1,0 +1,56 @@
+CHECKLIST - AWS SysOps Exam
+===========================
+
+[ ] - CloudWatch Introduction
+[ ] - EC2 Status Troubleshooting
+[ ] - Create A Cloud Watch Role
+[ ] - Monitoring EC2 With Custom Metrics
+[ ] - Monitoring EBS
+[ ] - Monitoring RDS
+[ ] - Monitoring ELB
+[ ] - Monitoring Elasticache
+[ ] - Centralised Monitoring Servers
+[ ] - Consolidated Billing
+[ ] - Billing & Alerts
+[ ] - Cost Optimization
+
+[ ] - Elasticity & Scalability
+[ ] - Scale Up or Scale Out?
+[ ] - RDS and Multi-AZ Failover
+[ ] - RDS & Using Read Replica's
+[ ] - RDS Multi-AZ & Read Replica's Lab
+[ ] - Using Bastion Hosts and High Availability
+[ ] - Troubleshooting & Potential Autoscaling Issues
+[ ] - High Availability Quiz
+[ ] - Root Access to AWS Services
+[ ] - Elastic Load Balancer Configurations
+[ ] - Pre-warming - Elastic Load Balancers
+[ ] - Deployment & Provisioning
+
+[ ] - Disaster Recovery, Back Up & AWS
+[ ] - AWS Services & Automated Backups
+[ ] - EC2 Types - EBS vs Instance Store
+[ ] - Upgrading EBS Volume Types
+[ ] - Storing Log Files and Other BackUps
+[ ] - Data Management
+[ ] - Opsworks Overview
+[ ] - Setting Up Opsworks
+
+[ ] - Building IAM Policies
+[ ] - Using IAM Roles with EC2 (recap)
+[ ] - Multifactor Authentication on AWS
+[ ] - Security Token Service
+[ ] - Security on AWS
+[ ] - AWS & IT Audits
+
+[ ] - Network Bottlenecks
+[ ] - Route 53 - Regional Failover
+[ ] - Route53 - Weighted DNS
+[ ] - Route53 - Latency Based Routing
+[ ] - Route53 - Geolocation
+[ ] - AWS Direct Connect
+[ ] - VPC Overview
+[ ] - Build a custom VPC
+[ ] - Creating a NAT instance
+[ ] - Network ACL's
+[ ] - VPC Summary
